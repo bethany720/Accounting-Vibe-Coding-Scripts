@@ -37,6 +37,8 @@ This tool handles most of that automatically.
 
 The result is faster invoice processing, fewer clicks, more consistent file organization, and less risk of missing backup documents during manual combination.
 
+This automation takes a 2 minute task to 2 seconds.
+
 ## Best Use Case
 
 This tool is ideal when an invoice is received by email with multiple supporting documents attached or zipped together.
