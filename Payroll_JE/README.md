@@ -1,0 +1,1 @@
+Automates payroll journal-entry preparation by mapping GL accounts, applying debit and credit signs, splitting selected accounts by pay component, generating an Excel workpaper and import-ready CSV, and reconciling the completed journal entry to the payroll bank debit.
