@@ -1,1 +1,1 @@
-
+Python automation toolkit for monthly accounting cash reports, including detail-report merging, lookup-based distribution, checker updates, pivot refreshes, and distribution-ready workbook formatting.
